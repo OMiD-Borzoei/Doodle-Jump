@@ -1,0 +1,1 @@
+2*break_point = step_size_x - (break_width + break_slope*(step_size_y-1))
